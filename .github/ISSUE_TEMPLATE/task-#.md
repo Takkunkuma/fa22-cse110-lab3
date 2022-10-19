@@ -1,9 +1,9 @@
 ---
 name: 'Task #'
-about: 'This template will provide the general structure of a task description. '
+about: 'The task's purpose and its detail description.'
 title: ''
-labels: ''
-assignees: ''
+labels: 'Task'
+assignees: 'Self'
 
 ---
 
