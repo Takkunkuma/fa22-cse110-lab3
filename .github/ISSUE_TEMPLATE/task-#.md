@@ -1,11 +1,19 @@
 ---------------------------------------------------------
-name  |  'Task #'
----------------------------------------------------------
-about | 'The task's purpose and its detail description.'
-title | ''
-labels | 'Task'
-assignees | 'Self'
----------------------------------------------------------
+### name: Task #
+
+<br />
+
+### about: The task's purpose and its detail description.
+
+<br />
+
+### title: 
+
+<br />
+
+### labels: 'Task'
+
+<br />
 
 ### Purpose: 
 
