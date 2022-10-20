@@ -1,5 +1,5 @@
 ---
-name: 'Task: '
+name: task
 about: The task's purpose and its detail description.
 title: ''
 labels: ''
