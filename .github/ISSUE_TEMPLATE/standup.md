@@ -1,5 +1,5 @@
 ---
-name: " - Stand Up Note Template -"
+name: standup
 about: Easily expand your stand up meeting from this template!
 title: ''
 labels: ''
